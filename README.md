@@ -12,5 +12,8 @@ https://docs.docker.com/reference/
 DOCKER manuals - 
 https://docs.docker.com/desktop/
 
+PIP - 
+https://pip.pypa.io/en/stable/cli/
+
 
 
